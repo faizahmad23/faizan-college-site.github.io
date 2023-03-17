@@ -1,1 +1,1 @@
-# faizan-college-site.github.io
+#college-site.github.io
