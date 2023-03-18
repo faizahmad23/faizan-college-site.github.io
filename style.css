@@ -1,0 +1,142 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /* box-sizing: border-box; */
+}
+/* HEADER STARTS FRM HERE */
+.header{
+    height: 110px;
+    width: 1150px;
+    background-color: rgb(43, 43, 155);
+    
+}
+#img1{
+    color: rgb(46, 31, 8);
+    margin-left: 100px;
+    padding: 20px;
+}
+.topheading{
+   position: relative;
+   bottom: 90px;
+   left: 35vh;
+   color: whitesmoke;
+}
+h2{
+    /* margin-left: 15px; */
+    font-size: x-large;
+}
+h3{
+    font-family: cursive;
+    font-weight: 100;
+    font-size: large;
+
+}
+h4{
+    font-family:'Courier New', Courier,;
+    font-weight: 100;
+    margin-left: 10px;
+    font-size: smaller;
+}
+
+  
+.headerlinks{
+    position: relative;
+    bottom: 190px;
+}
+#search{
+    position: relative;
+    bottom: 170px;
+    left: 163vh;
+    color:wheat;
+    font-size: 15px;
+    background-color: black;
+    
+}
+#input{
+    position: relative;
+    bottom: 170px;
+    left: 163vh;
+    color:rgb(36, 34, 34);
+    font-size: 15px;
+}
+  ol li{
+    display: inline-block;
+    
+}
+.ol1{
+   
+    position: relative;
+    right:70px ;
+    top: 15px;
+    list-style-type: none;
+    justify-self: right;
+    text-align: right;
+    font-weight: 400;
+    font-size: small;
+    letter-spacing: 1px;
+    
+    
+
+}
+.firstanchors{
+    text-decoration: none;
+    color: rgb(232, 223, 223);
+    
+}
+.firstanchors:hover{
+    text-decoration: underline;
+}
+/* HEADER ENDS HERE */
+
+/* NAVBAR  STATRS FRM HERE*/
+nav{
+    padding:5px;
+    margin: 14px;
+}
+.ol2{
+    position: relative;
+     left: 3vh;
+    top: 15px;
+    list-style-type: none;
+     font-weight: 400;
+   /* font-size: small;
+     */
+    justify-content: space-around;
+    word-spacing: 10px;   
+
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background-color: rgb(53, 128, 0);
+    text-decoration: underline;
+    color:white;
+    border-radius: 6px;
+    padding: 2px;
+    
+    
+}
+/* .sub-nav{
+    display: none;
+}
+.ol2:hover .sub-nav{
+    display: block;
+    position: absolute;
+    background-color: green;
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.ol2 ul li:hover.sub-nav ul{
+    display: block;
+    margin: 6px;
+}
+.ol2 ul li:hover.sub-nav ul li{
+    width: 150px;
+    padding: 10px;
+    border-bottom: 1px dotted;
+    border-radius: 0;
+    background-color: transparent;
+} */

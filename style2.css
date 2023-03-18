@@ -1,0 +1,236 @@
+.principle-img{
+    width: 198px;
+    height: 132px;
+    border: 1px solid rgb(106, 96, 96);
+    margin-left: 27px;
+    padding: 10px;
+
+}
+.msg-p{
+    margin-left: 28px;
+    margin-top: 50px;
+    
+}
+.msg-p h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+     /* ADMISSION CONTAINER */
+.admission-container{
+    margin-left: 28px;
+    margin-top: 50px;
+
+
+}
+.admission{
+    width:200px;
+    height: 110px;
+    border: 1px solid rgb(106, 96, 96);
+    margin-left: 27px;
+    padding: 10px;
+
+}
+.admission-container h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.admission img{
+    margin-left: 10px;
+
+}
+
+        /* AUTONOMOUS-container */
+
+.AUTONOMOUS-container h3{
+    margin-top: 30px;
+    margin-left: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.AUTONOMOUS{
+
+width:200px;
+    height: 90px;
+    border: 1px solid rgb(106, 96, 96);
+    margin-left: 27px;
+    padding: 10px;
+}
+.AUTONOMOUS img{
+ margin-bottom: 70px;
+}
+             /* .NEP-container */
+.NEP-container h3{
+    margin-top: 30px;
+    margin-left: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.NEP{
+
+width:200px;
+height: 110px;
+border: 1px solid rgb(106, 96, 96);
+margin-left: 27px;
+padding: 10px;}
+
+.Student-container h3{
+    margin-top: 30px;
+    margin-left: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Student{
+    width:200px;
+    height: 100px;
+    border: 1px solid rgb(106, 96, 96);
+    margin-left: 27px;
+    padding: 10px;
+}
+.College-Newsletter-container h3{
+    margin-top: 30px;
+    margin-left: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+section{
+    width: 810px;
+    height: 710px;
+    overflow: scroll;
+    position: relative;
+    bottom: 202vh;
+    left: 70vh;
+}
+
+#Registration-23{
+    overflow:scroll;
+    width: 100vh;
+    margin-top: 20px;
+    
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+    font-size: 20px;
+}
+#Registration-23 a{
+    color: white;
+    margin-left: 10px;
+}
+section h3{
+    padding: 20px;
+    width: 150vh;
+}
+section h3 a{
+    color:green;
+    margin-left: 20px;
+    background-color: pink;
+    
+    
+}
+hr{
+    width: 150vh;
+    color: rgb(106, 102, 102);
+    margin-left: 10px;
+
+
+}
+#attendance-img{
+    position: relative;
+    left: 75vh;
+    bottom:132vh;
+
+}
+#mountain-img{
+    position: relative;
+    left: 130vh;
+    bottom:160vh;
+}
+.last-first-container h4{
+    position: relative;
+    left: 120vh;
+    bottom:160vh;
+
+}
+#feedback-img{
+    position: relative;
+    left: 140vh;
+    bottom:159vh;
+}
+.last-first-container a{
+    color: blue;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.last-first-container a:hover{
+    background-color: white;
+}
+.last-container{
+    width: 1170px;
+    height: 200px;
+    background-color: rgb(55, 55, 128);
+    position: relative;
+    bottom: 143vh;
+    font-size: small;
+    font-weight: 400;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.college-profile{
+  margin-left: 40vh;
+ 
+}
+.college-profile ul{
+    margin-top: 20px;
+    list-style-type: none;
+    margin-bottom: 40px;
+    
+}
+.college-profile a{
+    color: white;
+}
+.college-profile  h4{
+    color: rgb(222, 202, 202);
+    position: relative;
+    top: 10px;
+    font-size: larger;
+}
+
+.dprtmnt-of-btny ul{
+    position: relative;
+    bottom: 25vh;
+    list-style-type: none;
+     margin-left: 70vh;
+}
+.dprtmnt-of-btny a{
+    color: white;
+}
+.dprtmnt-of-economics ul{
+    position: relative;
+    bottom: 54vh;
+    list-style-type: none;
+     margin-left: 120vh;
+}
+.dprtmnt-of-economics a{
+    color: white;
+}
+.library ul{
+    position: relative;
+    bottom: 83vh;
+    list-style-type: none;
+     margin-left: 160vh;
+}
+.library a{
+    color: white;
+}
+#Copyright{
+    position: relative;
+    bottom: 143vh;
+    color: rgb(145, 145, 248);
+     margin-left: 5vh;
+
+}
+#Developed-by-Department{
+    position: relative;
+    bottom: 146vh;
+    color: rgb(145, 145, 248);
+     margin-left: 149vh;
+}
+/* @media screen and (max-width:800px) */
+
